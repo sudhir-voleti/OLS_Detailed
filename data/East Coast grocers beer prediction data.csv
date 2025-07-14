@@ -1,0 +1,11 @@
+scenario_id,scenario_description,brand2,sku.size,bottle,light,amber,golden,lite,reg,adspend1,price,distbn,promo,month
+1,Baseline: Budweiser 12pk in March,Bud,144,1,0,0,1,0,1,150000,0.075,85,25,3
+2,Aggressive Promo: Budweiser 12pk,Bud,144,1,0,0,1,0,1,150000,0.075,88,85,3
+3,Distribution Push for Heineken,Heineken,72,1,0,0,1,0,1,120000,0.095,95,10,4
+4,Price War: Coors Light drops price,Coors,144,0,1,0,0,1,0,135000,0.06,80,20,4
+5,SKU Test (Large): Miller 24-pack,Miller,288,0,0,0,1,0,1,140000,0.065,80,20,2
+6,SKU Test (Small): Amstel Light 6-pack,Amstel,72,1,1,0,0,1,0,90000,0.1,60,5,2
+7,Brand Comparison: Miller Lite vs. Bud,Miller,144,1,1,0,0,1,0,140000,0.075,85,25,3
+8,Seasonality Test (April): Corona,Corona,144,1,1,0,0,0,1,100000,0.08,75,30,4
+9,Seasonality Test (Jan): Corona,Corona,144,1,1,0,0,0,1,100000,0.08,75,30,1
+10,Ad Spend Increase: Heineken Campaign,Heineken,72,1,0,0,1,0,1,180000,0.095,80,10,4

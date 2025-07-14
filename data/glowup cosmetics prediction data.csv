@@ -1,0 +1,10 @@
+scenario_id,scenario_description,Facebook_Ads_Spend,Google_Ads_Spend,Discount_Percentage,Influencer_Collaboration
+1,Baseline Week: A standard week with balanced ad spend and a small discount.,7500,7500,0.1,0
+2,All-in on Facebook: Shift the entire $15k budget to Facebook.,15000,0,0.1,0
+3,All-in on Google: Shift the entire $15k budget to Google.,0,15000,0.1,0
+4,Test Optimal Discount: Apply the theoretical optimal discount of 15%.,7500,7500,0.15,0
+5,Aggressive Discount: Push discount to 30% to see diminishing returns.,7500,7500,0.3,1
+6,Premium Week (No Discount): Test a high-spend week with zero discount.,8000,12000,0,0
+7,Influencer Lift (No Synergy): An influencer post with zero Facebook ad support.,0,10000,0.15,1
+8,Synergy Test: A high Facebook spend week with an influencer.,15000,5000,0.15,1
+9,Control for Synergy Test: A high Facebook spend week without an influencer.,15000,5000,0.15,0

@@ -9,6 +9,7 @@ if(!require("stats")){install.packages("stats")}
 if(!require("skedastic")){install.packages("skedastic")}
 if(!require("lmtest")){install.packages("lmtest")}
 if(!require("olsrr")){install.packages("olsrr")}
+if(!require("DT")){install.packages("DT")}
 
 
 library(shiny)
